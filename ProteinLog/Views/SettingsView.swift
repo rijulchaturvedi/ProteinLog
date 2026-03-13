@@ -134,6 +134,11 @@ struct SettingsView: View {
                 .font(Theme.mono(11))
                 .foregroundColor(Theme.textDim)
                 .padding(.top, 4)
+
+            Text("Designed & Developed by Rijul Chaturvedi")
+                .font(Theme.comfortaa(11))
+                .foregroundColor(Theme.textMuted)
+                .padding(.top, 2)
         }
         .padding(.top, 20)
     }

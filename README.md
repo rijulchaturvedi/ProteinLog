@@ -64,6 +64,10 @@ ProteinLog/
     └── SplashScreen.swift       # Launch animation
 ```
 
+## Author
+
+Designed and developed by [Rijul Chaturvedi](https://github.com/rijulchaturvedi).
+
 ## License
 
 MIT
