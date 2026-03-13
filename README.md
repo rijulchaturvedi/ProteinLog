@@ -6,6 +6,14 @@ A minimal iOS app for tracking daily protein intake. Built with SwiftUI.
   <strong>Track · Build · Repeat</strong>
 </p>
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="230" alt="Home screen">
+  <img src="screenshots/add-meal.png" width="230" alt="Add meal sheet">
+  <img src="screenshots/history.png" width="230" alt="History view">
+</p>
+
 ## What it does
 
 ProteinLog lets you log protein grams per meal throughout the day, see your progress toward a daily goal via an animated ring, and review your history over time. If you forgot to log something yesterday, you can go back and add, edit, or delete meals on any past day.
