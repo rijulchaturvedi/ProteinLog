@@ -1,4 +1,4 @@
-# ProteinLog
+# ProteinLog 🍗 
 
 A minimal iOS app for tracking daily protein intake. Built with SwiftUI.
 
